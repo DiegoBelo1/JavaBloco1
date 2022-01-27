@@ -1,8 +1,8 @@
-package exerciciosjava;
+package Introdução;
 
 import java.util.Scanner;
 
-public class exercicio_3 {
+public class Introdução_3 {
 
 	public static void main(String[] args) {
 		
