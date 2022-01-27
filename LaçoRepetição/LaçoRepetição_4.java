@@ -1,8 +1,8 @@
-package Condicional;
+package LaçoRepetição;
 
 import java.util.Scanner;
 
-public class Condicional_4 {
+public class LaçoRepetição_4 {
 
 	public static void main(String[] args) {
 	

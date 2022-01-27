@@ -1,6 +1,6 @@
-package Condicional;
+package LaçoRepetição;
 
-public class Condicional_1 {
+public class LaçoRepetição_1 {
 
 	public static void main(String[] args) {
 		
